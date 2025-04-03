@@ -1,4 +1,4 @@
-# Sample-Alcami    -Premium Shop
+# Alcami    -Premium Shop
 This is Web development Website using HTML,CSS and Javascript
 
 ![Alcami Logo](./assets/alchami-white.png)
